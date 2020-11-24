@@ -1,6 +1,6 @@
 # MANUTENÇÃO DE SOFTWARE
 
-***********v* # PROF. BRUNO
+************ # PROF. BRUNO
 >>>>>> # ZONOVELLI
 
 >>>>>>>> # 2020.2 - <<Nome do  
